@@ -30,4 +30,4 @@ At this stage, you can run the "go script" as much as you want as you have confi
 The code is a work-in-progress. Use at your discretion.
 
 <h3>Credit</h3>
-tcascanner.ino Arduino code belongs to Todd E. Kurt [LINK](https://todbot.com/blog/)
+tcascanner.ino Arduino code belongs to Todd E. Kurt
