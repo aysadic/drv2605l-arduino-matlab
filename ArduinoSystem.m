@@ -1,4 +1,4 @@
-%% Arduino Haptic Ring Driver
+%% Arduino DRV2605L Haptic Driver
 clear all
 close all
 clc

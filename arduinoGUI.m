@@ -20,7 +20,7 @@ function arduinoGUI()
         
     %% GUI Design
     guiFig=figure('Units','normalized','OuterPosition',[0 0 1 1],'WindowStyle','normal'...
-        ,'Resize','off','Menubar','none','Pointer','circle','WindowButtonMotionFcn',@ringMove);               
+        ,'Resize','off','Menubar','none','Pointer','circle','WindowButtonMotionFcn',@touchMove);               
         % GUI Buttons
         buttongroup = uibuttongroup('Visible','on','Units','normalized','Position',[0,0.8,1,0.2],...
             'Title','How do you define the shape you are feeling?','TitlePosition','lefttop');
